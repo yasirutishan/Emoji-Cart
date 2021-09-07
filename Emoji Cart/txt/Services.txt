@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+	<head>
+	<title>Welcome to Emoji Cart</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<div id="wrapper">
+			<header>
+				<a href="#"><h1>Emoji Cart</h1></a>
+				<div class="search">
+					<form method="get" action="">
+					<input type="text" name="search" placeholder="Search..."/>
+					<input type="submit" name="find" value="Search"/>
+				</form>
+				</div>
+
+			</header>
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Services</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</nav>		
+			
+			<section id="first">
+				<img src="images/Asset 1.png">
+				<h2 class="head">Sign Up</h2>
+				<p>The search box is one of the most convenient ways to find things on your computer. The exact location of the items doesn't matter—the search box will scour your programs and all of the folders in your personal folder (which includes Documents, Pictures, Music, Desktop, and other common locations). It will also search your email messages, saved instant messages, appointments, and contacts.</p>
+				<p>The search box is one of the most convenient ways to find things on your computer. The exact location of the items doesn't matter—the search box will scour your programs and all of the folders in your personal folder (which includes Documents, Pictures, Music, Desktop etc).</p>
+			</section>
+			<section id="second">
+					<img src="images/Asset 2.png">
+					<h2 class="head">Photography</h2>
+					<p>Safe mode is useful for troubleshooting problems with programs and drivers that might not start correctly or that might prevent Windows from starting correctly. If a problem doesn't reappear when you start in safe mode, you can eliminate the default settings and basic device drivers as possible causes. If a recently installed program, device, or driver prevents Windows from running correctly, you can start your computer in safe mode and then remove the program that's causing the problem. For more information about troubleshooting problems in safe mode, see Diagnostic tools to use in safe mode.If a recently installed program, device, or driver prevents Windows from running correctly,you can start your computer in safe mode.</p>
+					
+			</section>
+			<section id="third">
+				<img src="images/Asset 3.png">
+				<h2 class="head">Music Album</h2>
+				<p>If the problem is severe enough that Startup Repair doesn't start on its own and you can't access the System Recovery Options menu on your computer's hard disk, you can get to the menu and start Startup Repair by using the Windows installation disc or a system repair disc that you created earlier. For more information.</p>
+				<p>If the problem is severe enough that Startup Repair doesn't start on its own and you can't access the System Recovery Options menu on your computer's hard disk, you can get to the menu and start Startup Repair by using the Windows installation disc or a system repair disc that you created earlier.In safe mode, you can trouble shoot  your system...</p>
+
+			</section>
+			<section id="images">
+				<ul>
+					<li>
+						<p>Good News</p>
+						<img src="images/Asset 4.png">
+					</li>
+					<li>
+						<p>Educational</p>
+						<img src="images/Asset 5.png">
+					</li>
+					<li>
+						<p>Trophy</p>
+						<img src="images/Asset 6.png">
+					</li>
+					<li>
+						<p>Join Now</p>
+						<img src="images/Asset 7.png">
+					</li>
+				</ul>
+
+			</section>
+			
+		
+			<footer>
+				<p>&copy;&nbsp;copyright 2021. All rights reserved.</p>
+			
+			</footer>
+		</div>	
+	</body>
+</html>
